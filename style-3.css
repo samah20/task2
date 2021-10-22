@@ -1,0 +1,76 @@
+body {
+    background-color: white;
+    color: black;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+li {
+    list-style-type: none;
+}
+ul li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+#top-nav li{
+color: black;
+}
+.myImage{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+}
+main{
+    text-align: center;
+    margin: 60px auto 120px;
+}
+#search-inbut{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: rgb(255, 255, 255);
+    width:40%;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    color: black;
+    border-radius: 30px;
+}
+.option input{
+    margin: 5px;
+    height: 33px;
+    font-size: 14px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+
+}
+#off{
+    margin-top: 50px;
+    font-size: 14px;
+    color: black;
+}
+#off a{
+    text-decoration: underline;
+    color: blue;
+}
+hr {
+    color: black;
+    border: none;
+    height: 1px;
+    background: black;
+    margin: 0;
+    padding: 0;
+
+}
+.list div {
+    display: inline-block;
+    text-align: center;
+}
+.ul ul li{
+    margin-top: 15px;
+}
+.location {
+    margin-left: 40px;
+    margin-bottom: 10px;
+    font-size: 28px;
+}
